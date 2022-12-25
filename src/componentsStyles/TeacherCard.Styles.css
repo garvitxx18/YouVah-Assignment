@@ -1,0 +1,28 @@
+.Teacher-Img-Div {
+  border-radius: 40px;
+  overflow: hidden;
+  height: 417px;
+  width: 367px;
+}
+.Teacher-Name {
+  margin-bottom: 0px;
+  margin-top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 27px;
+}
+.Flag-Div {
+  display: flex;
+  align-items: center;
+}
+.subject-Name {
+  font-size: 15px;
+  padding-top: 7px;
+  color: #666680;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+}
+.Teacher-Main-Div {
+  margin: 20px;
+}

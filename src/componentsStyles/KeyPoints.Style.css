@@ -1,0 +1,27 @@
+.Key-Points-heading-1 {
+  margin: 20px;
+  margin-bottom: 0px;
+
+  font-weight: 700;
+  font-size: 16px;
+  color: #b0b0c0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Key-Points-heading-2 {
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.Key-Points-Main-Div {
+  display: flex;
+  margin-top: 60px;
+  width: 1376px;
+}
+.Key-Points-Root-Div {
+  margin-top: 140px;
+  width: 1500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

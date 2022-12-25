@@ -1,0 +1,21 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #666680;
+  padding-top: 25px;
+  line-height: 38px;
+}
+.Footer-Bottom-Heading {
+  margin-top: 54px;
+  width: 80px;
+  height: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #181b32;
+}

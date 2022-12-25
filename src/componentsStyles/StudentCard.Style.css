@@ -1,0 +1,49 @@
+.Student-Image-div {
+  border-radius: 40px;
+  overflow: hidden;
+  height: 633px;
+  width: 502px;
+  background-color: #fceae3;
+  margin-left: 20px;
+}
+.Student-Main-div {
+  margin-top: 60px;
+  display: flex;
+}
+.Student-Info-Div {
+  height: 633px;
+  width: 784px;
+}
+.Student-Name {
+  margin-top: 100px;
+  margin-left: 120px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 570;
+  font-size: 42px;
+  color: #181b32;
+}
+.Student-Flag-Subject-Div {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 120px;
+}
+.Student-Subject-Name {
+  color: #666680;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+
+  margin-top: 17px;
+}
+.Student-Para {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  margin-top: 30px;
+  margin-left: 120px;
+  height: fit-content;
+  width: 580px;
+  font-size: 27px;
+  color: #181b32;
+  font-weight: 100;
+  line-height: 1.7;
+}

@@ -1,0 +1,70 @@
+.ImgDiv {
+  position: relative;
+  height: 800px;
+  width: 800px;
+}
+.rectangle-2 {
+  position: absolute;
+  height: 534.0000205629982px;
+  width: 534.0000205629982px;
+  left: 141.419921875px;
+  top: -0.3076171875px;
+  border-radius: 60px;
+  background: #ffd6b0;
+  transform: rotate(10deg);
+  margin-top: 90px;
+  margin-left: 50px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  position: absolute;
+  height: 534.0000026317331px;
+  width: 534.0000026317331px;
+  left: 71.41796875px;
+  top: 63.135986328125px;
+  border-radius: 60px;
+  background: #ffd6b0;
+  opacity: 30%;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  margin-left: 110px;
+}
+.Women-Image {
+  position: absolute;
+  rotate: -10deg;
+  left: -50px;
+  top: 10px;
+}
+.Header-Img-1-Div {
+  height: 128px;
+  width: 240px;
+  margin-top: 550px;
+  margin-left: 300px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 24px;
+}
+.Header-Img-1 {
+  height: 130px;
+}
+.Header-Img-2-Div {
+  height: 105px;
+  margin-top: 260px;
+  margin-left: 580px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 24px;
+}
+.Header-Img-2 {
+  height: 110px;
+}
+.Header-Img-3-Div {
+  height: 90px;
+  margin-top: 170px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 24px;
+}
+.Header-Img-3 {
+  height: 90px;
+}
